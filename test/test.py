@@ -1,9 +1,5 @@
 import random
 # Game of guesing nuber
-
-
-
-
 # tries = 10
 random_number = str(random.randrange(1, 10, 2))
 tries = int(input('Enter the count of tries'))
